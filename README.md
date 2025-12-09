@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Étudiant en BUT Informatique passionné par la création et l’expérimentation.<br>Je m’intéresse autant au développement logiciel qu’aux projets techniques mêlant électronique, web et jeux vidéo.<br><br>Projets : Développement de jeux vidéo, création de sites web, prototypes Arduino et applications diverses<br><br>🚀 J’aime apprendre, tester de nouvelles idées et améliorer mes projets au fil du temps.<br>N’hésite pas à explorer mes repos — chaque projet est une occasion d’en découvrir davantage !
+🎓 Étudiant en BUT Informatique passionné par la création et l’expérimentation.<br>Je m’intéresse autant au développement logiciel qu’aux projets techniques mêlant électronique, web et jeux vidéo.<br><br>👾 Projets : Développement de jeux vidéo, création de sites web, prototypes Arduino et applications diverses<br><br>🚀 J’aime apprendre, tester de nouvelles idées et améliorer mes projets au fil du temps.<br>N’hésite pas à explorer mes repos — chaque projet est une occasion d’en découvrir davantage !
 
 
 ## 🌐 Socials:
