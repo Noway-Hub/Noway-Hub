@@ -52,8 +52,3 @@ N’hésite pas à explorer mes repos — chaque projet est une occasion d’en 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=N0wayys&theme=tokyonight)
